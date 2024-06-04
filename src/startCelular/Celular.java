@@ -12,7 +12,6 @@ public class Celular {
 		iphone.ligar("71988811124");
 		iphone.atender();
 		
-
 	}
 
 }
